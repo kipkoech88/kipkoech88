@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kipkoech88
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning HTML, CSS and JAVA
-- 💞️ I’m looking to collaborate on WEB DEVELOPMENT
+- 👀 I’m interested in machine learning and data science
+- 🌱 I’m currently learning R, Python and advanced Excel
+- 💞️ I’m looking to collaborate on Machine learning
 - 📫 You can Reach me @hoseakipkoech88@gmail.com
 
 <!---
