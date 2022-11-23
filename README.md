@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kipkoech88
-- 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning R, Python and advanced Excel
-- 💞️ I’m looking to collaborate on Machine learning
+- 👀 Full stack Software Engineer
+- 🌱 I’m currently working in Javascript and Python
+- 💞️ I’m looking to collaborate on Machine learning and Software Development
 - 📫 You can Reach me @hoseakipkoech88@gmail.com
 
 <!---
