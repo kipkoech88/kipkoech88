@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [hoseakipngetich.netlify.app](hoseakipngetich.netlify.app)
+- 👨‍💻 All of my projects are available at [https://codingactuary.netlify.app/](codingactuary.com)
 
 - 💬 Ask me about **Django, Express, MySQL, MongoDB**
 
