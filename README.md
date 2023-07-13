@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://hoseakipngetich.tech/]([https://hoseakipngetich.tech/])
+- 👨‍💻 All of my projects are available at [https://hoseakipngetich.tech/](https://hoseakipngetich.tech/)
 
 - 💬 Ask me about **Django, Express, MySQL, MongoDB**
 
