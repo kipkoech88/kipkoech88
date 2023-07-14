@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kipkoech88" alt="kipkoech88" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React-Native**
 
 - 👨‍💻 All of my projects are available at [https://hoseakipngetich.tech/](https://hoseakipngetich.tech/)
 
-- 💬 Ask me about **Django, Express, MySQL, MongoDB**
+- 💬 Ask me about **React, React-Native, Nodejs, Linux, Express, MySQL, MongoDB**
 
 - 📫 How to reach me **hoseakipkoech88@gmail.com**
 
