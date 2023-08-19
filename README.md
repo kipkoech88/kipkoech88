@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hoseakipngetich.tech/](https://hoseakipngetich.tech/)
 
-- 💬 Ask me about **React, React-Native, Nodejs, Linux, Express, MySQL, MongoDB**
+- 💬 Ask me about **React, React-Native, Nodejs, Linux, Express, MySQL, MongoDB, C**
 
 - 📫 How to reach me **hoseakipkoech88@gmail.com**
 
